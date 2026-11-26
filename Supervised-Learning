@@ -1,0 +1,90 @@
+# Supervised Learning
+
+##  Introduction
+
+Supervised Learning is a type of Machine Learning in which a model is trained using labelled data. It learns the relationship between input features and their corresponding outputs to make predictions on new, unseen data.
+
+In this section, I explore different Supervised Learning algorithms, understand their working principles, implement them using Python, and apply them to practical datasets.
+
+##  Learning Objectives
+
+- Understand the fundamentals of Supervised Learning.
+- Explore Regression and Classification techniques.
+- Understand the mathematical concepts behind each algorithm.
+- Build models using Scikit-learn.
+- Evaluate model performance using appropriate metrics.
+- Apply algorithms to practical Machine Learning projects.
+
+##  Categories of Supervised Learning
+
+### 1. Regression
+
+Regression algorithms are used to predict continuous numerical values.
+
+Algorithms to be explored:
+
+- [x] Linear Regression
+- [ ] Multiple Linear Regression
+- [ ] Polynomial Regression
+- [ ] Ridge Regression
+- [ ] Lasso Regression
+- [ ] Elastic Net Regression
+- [ ] Decision Tree Regression
+- [ ] Random Forest Regression
+- [ ] Support Vector Regression
+- [ ] Gradient Boosting Regression
+
+### 2. Classification
+
+Classification algorithms are used to predict discrete categories or class labels.
+
+Algorithms to be explored:
+
+- [ ] Logistic Regression
+- [ ] K-Nearest Neighbors (KNN)
+- [ ] Decision Tree Classification
+- [ ] Random Forest Classification
+- [ ] Support Vector Machine (SVM)
+- [ ] Naive Bayes
+- [ ] Gradient Boosting
+- [ ] AdaBoost
+- [ ] XGBoost
+
+##  Tools & Technologies
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
+
+##  Folder Structure
+
+```text
+Supervised-Learning/
+│
+├── README.md
+│
+├── Regression/
+│   ├── 01-Linear-Regression/
+│   ├── 02-Multiple-Linear-Regression/
+│   └── ...
+│
+└── Classification/
+    └── ...
+```
+
+##  Learning Progress
+
+**Current Status:** Learning Regression Algorithms.
+
+Completed:
+- Linear Regression – Student Marks Prediction
+
+More algorithms and practical projects will be added as I continue learning.
+
+---
+
+**Learning one algorithm at a time, building practical knowledge step by step.** 🚀
